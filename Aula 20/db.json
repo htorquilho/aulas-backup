@@ -1,0 +1,63 @@
+{
+  "bebidas": [
+    {
+      "id": 1,
+      "nome": "Coca Cola",
+      "quantidade": 50
+    },
+    {
+      "id": 2,
+      "nome": "Guaraná Antártica",
+      "quantidade": 50
+    },
+    {
+      "nome": "Fanta Laranja",
+      "quantidade": 36,
+      "id": 3
+    },
+    {
+      "nome": "Soda Antártica",
+      "quantidade": 12,
+      "id": 4
+    },
+    {
+      "nome": "Pepsi",
+      "quantidade": 48,
+      "id": 5
+    },
+    {
+      "nome": "Pepsi Black",
+      "quantidade": 24,
+      "id": 6
+    },
+    {
+      "nome": "Pepsi Twist",
+      "quantidade": 12,
+      "id": 7
+    },
+    {
+      "nome": "Coca Coca Café Expresso",
+      "quantidade": 48,
+      "id": 8
+    },
+    {
+      "nome": "Fanta Uva",
+      "quantidade": 12,
+      "id": 9
+    }
+  ],
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "Alessandro",
+      "email": "alessandro@email.com",
+      "telefone": "85 9 1234-1234"
+    },
+    {
+      "id": 2,
+      "nome": "Alessandro",
+      "email": "alessandro@email.com",
+      "telefone": "85 9 1234-1234"
+    }
+  ]
+}
