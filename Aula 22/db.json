@@ -1,0 +1,82 @@
+{
+  "bebidas": [
+    {
+      "id": 1,
+      "nome": "Coca-Cola",
+      "descricao": "KS 290ml",
+      "quantidade": "24"
+    },
+    {
+      "id": 2,
+      "nome": "Coca-Cola",
+      "descricao": "Lata 350ml",
+      "quantidade": "36"
+    },
+    {
+      "id": 3,
+      "nome": "Coca-Cola Zero",
+      "descricao": "Lata 350ml",
+      "quantidade": "36"
+    },
+    {
+      "id": 4,
+      "nome": "Pepsi",
+      "descricao": "Lata 350ml",
+      "quantidade": "24"
+    },
+    {
+      "id": 5,
+      "nome": "Pepsi Black",
+      "descricao": "Lata 350ml",
+      "quantidade": "36"
+    },
+    {
+      "id": 6,
+      "nome": "Guaraná Antártica",
+      "descricao": "Lata 350ml",
+      "quantidade": "48"
+    },
+    {
+      "id": 7,
+      "nome": "Guaraná Jesus",
+      "descricao": "Lata 350ml",
+      "quantidade": "24"
+    },
+    {
+      "id": 8,
+      "nome": "Guaraná Tubaína",
+      "descricao": "Garrafa 2lts",
+      "quantidade": "12"
+    },
+    {
+      "id": 9,
+      "nome": "São Geraldo",
+      "descricao": "Garrafa 600ml",
+      "quantidade": "24"
+    },
+    {
+      "id": 10,
+      "nome": "Fanta Guaraná",
+      "descricao": "Lata 350ml",
+      "quantidade": "12"
+    },
+    {
+      "id": 11,
+      "nome": "Fanta Laranja",
+      "descricao": "Lata 350ml",
+      "quantidade": "48"
+    },
+    {
+      "id": 12,
+      "nome": "Fanta Uva",
+      "descricao": "Lata 350ml",
+      "quantidade": "12"
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    }
+  ]
+}
